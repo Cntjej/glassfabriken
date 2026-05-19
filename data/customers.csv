@@ -1,0 +1,5 @@
+customer_id,name,address,discount_pct
+C1001,Alfa Livs,Alfavägen 1,10.0
+C1002,Bravo Kiosk,Brunnsgatan 7,0.0
+C1003,Charlies Café,Cafégatan 3,5.0
+C1004,Jenny Marvis,Bostad 5,10.0
